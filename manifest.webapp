@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "name": "Match3",
+  "description": "Cocos2d Match 3 Example",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/res/icon.png"
+  },
+  "developer": {
+    "name": "Denis Baskovsky",
+    "url": "http://denis.baskovsky.ru/"
+  },
+  "default_locale": "en",
+  "installs_allowed_from": [
+    "*"
+  ],
+  "orientation": "portrait-primary",
+  "fullscreen": "true"
+}
